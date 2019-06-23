@@ -32,6 +32,7 @@ class MainActivity : BaseActivity<ActivityMainBinding, MainActivityViewModel>() 
 
     override fun onClick(view: View?) {
         when (view?.id) {
+
         }
     }
 
